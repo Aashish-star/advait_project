@@ -5,7 +5,7 @@ There are 3 main package: Controller, Service and repository
 Endpoint present in : UserController class
 Business logic present in UserService class.
 
-Ignore test package
+Starting class is 'AssignmentApplication'
 
 # Token
 Mutiple ways to validating token,Here created TokenUtil class, I have not created the security adapter in order to validate, Directlt getting from header. All the API are in working state 
